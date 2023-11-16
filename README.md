@@ -1,7 +1,7 @@
 #Date  created
 - `16/11/23 `
 # Title
-<b> ` SASINI FINAMCIAL REPORTS  WEB SCRAPPING`
+<b> ` SASINI FINAMCIAL REPORTS  WEB SCRAPPING` </b>
 # Description
 - The  aim of this  project  is  to extract financial reports  from the  sasini website, to extract  important  information about  coffeee.
 - The  reports  from sasini are  inform of  pdf  files  named  after  each report  year.
@@ -33,5 +33,5 @@ os
 json
 ```
 # Credits 
-<footer> @ wambugu kinyua </footer>
+<footer> <i> @ wambugu kinyua </i> </footer>
 
